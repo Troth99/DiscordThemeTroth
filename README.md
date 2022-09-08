@@ -1,0 +1,2 @@
+# DiscordThemeTroth
+First Theme
